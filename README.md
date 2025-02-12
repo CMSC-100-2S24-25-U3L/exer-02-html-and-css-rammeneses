@@ -2,8 +2,11 @@
 
 
 Raphael Andrei M. Meneses
+
 BS Computer Science
+
 https://cmsc-100-2s24-25-u3l.github.io/exer-02-html-and-css-rammeneses/
+
 
 Steps to create a GitHub Page:
 To create a GitHub Page
